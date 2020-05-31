@@ -4,6 +4,7 @@ add_definitions(-std=c++11)
 
 set(CXX_FLAGS "-Wall")
 set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
+SET(OpenCV_DIR /Users/manabutogawa/udacity/opencv)
 
 project(camera_fusion)
 

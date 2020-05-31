@@ -1,0 +1,1037 @@
+---------- START SHITOMASI, BRISK
+Shi-Tomasi detection with n=1370 keypoints in 11.978 ms
+BRISK descriptor extraction in 1.75601 ms
+Shi-Tomasi detection with n=1301 keypoints in 9.00686 ms
+BRISK descriptor extraction in 1.13127 ms
+Shi-Tomasi detection with n=1361 keypoints in 12.1587 ms
+BRISK descriptor extraction in 1.32704 ms
+Shi-Tomasi detection with n=1358 keypoints in 6.76195 ms
+BRISK descriptor extraction in 1.13943 ms
+Shi-Tomasi detection with n=1333 keypoints in 8.08786 ms
+BRISK descriptor extraction in 1.84691 ms
+Shi-Tomasi detection with n=1284 keypoints in 11.1042 ms
+BRISK descriptor extraction in 1.13446 ms
+Shi-Tomasi detection with n=1322 keypoints in 9.17794 ms
+BRISK descriptor extraction in 1.15502 ms
+Shi-Tomasi detection with n=1366 keypoints in 7.28306 ms
+BRISK descriptor extraction in 1.69854 ms
+Shi-Tomasi detection with n=1389 keypoints in 6.49413 ms
+BRISK descriptor extraction in 1.5677 ms
+Shi-Tomasi detection with n=1339 keypoints in 7.6904 ms
+BRISK descriptor extraction in 1.0688 ms
+---------- START SHITOMASI, BRIEF
+Shi-Tomasi detection with n=1370 keypoints in 6.44733 ms
+BRIEF descriptor extraction in 0.52378 ms
+SHITOMASIis error with BRIEF
+Shi-Tomasi detection with n=1301 keypoints in 6.5661 ms
+BRIEF descriptor extraction in 0.467412 ms
+Shi-Tomasi detection with n=1361 keypoints in 8.79369 ms
+BRIEF descriptor extraction in 0.495082 ms
+Shi-Tomasi detection with n=1358 keypoints in 7.77722 ms
+BRIEF descriptor extraction in 0.480059 ms
+Shi-Tomasi detection with n=1333 keypoints in 6.91783 ms
+BRIEF descriptor extraction in 0.60037 ms
+Shi-Tomasi detection with n=1284 keypoints in 6.69509 ms
+BRIEF descriptor extraction in 0.532397 ms
+Shi-Tomasi detection with n=1322 keypoints in 6.75646 ms
+BRIEF descriptor extraction in 0.546265 ms
+Shi-Tomasi detection with n=1366 keypoints in 6.39213 ms
+BRIEF descriptor extraction in 0.514216 ms
+Shi-Tomasi detection with n=1389 keypoints in 6.96922 ms
+BRIEF descriptor extraction in 0.492743 ms
+Shi-Tomasi detection with n=1339 keypoints in 8.18034 ms
+BRIEF descriptor extraction in 0.460512 ms
+---------- START SHITOMASI, ORB
+Shi-Tomasi detection with n=1370 keypoints in 7.03633 ms
+ORB descriptor extraction in 1.8788 ms
+Shi-Tomasi detection with n=1301 keypoints in 6.54214 ms
+ORB descriptor extraction in 1.46925 ms
+Shi-Tomasi detection with n=1361 keypoints in 6.58606 ms
+ORB descriptor extraction in 1.49082 ms
+Shi-Tomasi detection with n=1358 keypoints in 7.05082 ms
+ORB descriptor extraction in 1.8555 ms
+Shi-Tomasi detection with n=1333 keypoints in 7.1356 ms
+ORB descriptor extraction in 1.69052 ms
+Shi-Tomasi detection with n=1284 keypoints in 6.80574 ms
+ORB descriptor extraction in 1.74966 ms
+Shi-Tomasi detection with n=1322 keypoints in 6.76985 ms
+ORB descriptor extraction in 1.6188 ms
+Shi-Tomasi detection with n=1366 keypoints in 8.1499 ms
+ORB descriptor extraction in 1.95102 ms
+Shi-Tomasi detection with n=1389 keypoints in 7.06102 ms
+ORB descriptor extraction in 1.65087 ms
+Shi-Tomasi detection with n=1339 keypoints in 7.00125 ms
+ORB descriptor extraction in 1.63045 ms
+---------- START SHITOMASI, FREAK
+Shi-Tomasi detection with n=1370 keypoints in 10.4974 ms
+FREAK descriptor extraction in 20.0668 ms
+SHITOMASIis error with FREAK
+Shi-Tomasi detection with n=1301 keypoints in 7.0257 ms
+FREAK descriptor extraction in 14.8854 ms
+Shi-Tomasi detection with n=1361 keypoints in 6.28879 ms
+FREAK descriptor extraction in 14.8817 ms
+Shi-Tomasi detection with n=1358 keypoints in 6.05797 ms
+FREAK descriptor extraction in 14.5187 ms
+Shi-Tomasi detection with n=1333 keypoints in 6.75187 ms
+FREAK descriptor extraction in 14.9999 ms
+Shi-Tomasi detection with n=1284 keypoints in 6.16755 ms
+FREAK descriptor extraction in 15.5338 ms
+Shi-Tomasi detection with n=1322 keypoints in 6.75826 ms
+FREAK descriptor extraction in 14.7061 ms
+Shi-Tomasi detection with n=1366 keypoints in 8.17163 ms
+FREAK descriptor extraction in 14.7168 ms
+Shi-Tomasi detection with n=1389 keypoints in 6.53862 ms
+FREAK descriptor extraction in 15.059 ms
+Shi-Tomasi detection with n=1339 keypoints in 6.33675 ms
+FREAK descriptor extraction in 15.0385 ms
+---------- START SHITOMASI, AKAZE
+Shi-Tomasi detection with n=1370 keypoints in 6.55002 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1301 keypoints in 7.20495 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1361 keypoints in 7.21583 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1358 keypoints in 7.7596 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1333 keypoints in 9.565 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1284 keypoints in 8.02611 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1322 keypoints in 8.71389 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1366 keypoints in 8.68147 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1389 keypoints in 9.44915 ms
+SHITOMASI is error with AKAZE
+Shi-Tomasi detection with n=1339 keypoints in 9.32156 ms
+SHITOMASI is error with AKAZE
+---------- START SHITOMASI, SIFT
+Shi-Tomasi detection with n=1370 keypoints in 8.76464 ms
+SIFT descriptor extraction in 11.8479 ms
+Shi-Tomasi detection with n=1301 keypoints in 9.23587 ms
+SIFT descriptor extraction in 10.5581 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1361 keypoints in 7.03707 ms
+SIFT descriptor extraction in 8.58827 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1358 keypoints in 7.03452 ms
+SIFT descriptor extraction in 12.4475 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1333 keypoints in 9.16624 ms
+SIFT descriptor extraction in 8.7862 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1284 keypoints in 7.60454 ms
+SIFT descriptor extraction in 9.02261 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1322 keypoints in 8.88605 ms
+SIFT descriptor extraction in 10.3253 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1366 keypoints in 7.9587 ms
+SIFT descriptor extraction in 10.5082 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1389 keypoints in 9.5778 ms
+SIFT descriptor extraction in 11.0964 ms
+SHITOMASIis error with SIFT
+Shi-Tomasi detection with n=1339 keypoints in 7.67009 ms
+SIFT descriptor extraction in 9.82713 ms
+SHITOMASIis error with SIFT
+---------- START HARRIS, BRISK
+Harris detection with n=115 keypoints in 2.73999 ms
+BRISK descriptor extraction in 0.475096 ms
+HARRISis error with BRISK
+Harris detection with n=98 keypoints in 2.16242 ms
+BRISK descriptor extraction in 0.825894 ms
+Harris detection with n=113 keypoints in 2.29103 ms
+BRISK descriptor extraction in 0.488753 ms
+Harris detection with n=121 keypoints in 2.48446 ms
+BRISK descriptor extraction in 0.532975 ms
+Harris detection with n=160 keypoints in 3.02147 ms
+BRISK descriptor extraction in 0.587837 ms
+Harris detection with n=383 keypoints in 13.5801 ms
+BRISK descriptor extraction in 0.688151 ms
+Harris detection with n=85 keypoints in 2.02007 ms
+BRISK descriptor extraction in 0.507625 ms
+Harris detection with n=210 keypoints in 3.76479 ms
+BRISK descriptor extraction in 0.492461 ms
+Harris detection with n=171 keypoints in 3.52023 ms
+BRISK descriptor extraction in 0.860419 ms
+Harris detection with n=281 keypoints in 7.31652 ms
+BRISK descriptor extraction in 0.52751 ms
+---------- START HARRIS, BRIEF
+Harris detection with n=115 keypoints in 2.32604 ms
+BRIEF descriptor extraction in 0.441855 ms
+HARRISis error with BRIEF
+Harris detection with n=98 keypoints in 2.16128 ms
+BRIEF descriptor extraction in 0.343893 ms
+Harris detection with n=113 keypoints in 2.291 ms
+BRIEF descriptor extraction in 0.349633 ms
+Harris detection with n=121 keypoints in 2.51518 ms
+BRIEF descriptor extraction in 0.438603 ms
+Harris detection with n=160 keypoints in 3.12765 ms
+BRIEF descriptor extraction in 1.01105 ms
+Harris detection with n=383 keypoints in 15.1001 ms
+BRIEF descriptor extraction in 1.08339 ms
+Harris detection with n=85 keypoints in 2.44258 ms
+BRIEF descriptor extraction in 1.02285 ms
+Harris detection with n=210 keypoints in 4.47812 ms
+BRIEF descriptor extraction in 0.422383 ms
+Harris detection with n=171 keypoints in 3.48369 ms
+BRIEF descriptor extraction in 0.42564 ms
+Harris detection with n=281 keypoints in 6.53168 ms
+BRIEF descriptor extraction in 0.511723 ms
+---------- START HARRIS, ORB
+Harris detection with n=115 keypoints in 2.31055 ms
+ORB descriptor extraction in 1.51358 ms
+Harris detection with n=98 keypoints in 2.3853 ms
+ORB descriptor extraction in 1.6823 ms
+Harris detection with n=113 keypoints in 2.73429 ms
+ORB descriptor extraction in 2.58153 ms
+Harris detection with n=121 keypoints in 2.84374 ms
+ORB descriptor extraction in 1.76573 ms
+Harris detection with n=160 keypoints in 3.31292 ms
+ORB descriptor extraction in 1.79439 ms
+Harris detection with n=383 keypoints in 15.0413 ms
+ORB descriptor extraction in 1.97908 ms
+Harris detection with n=85 keypoints in 2.2484 ms
+ORB descriptor extraction in 2.19396 ms
+Harris detection with n=210 keypoints in 4.47258 ms
+ORB descriptor extraction in 1.80117 ms
+Harris detection with n=171 keypoints in 3.31011 ms
+ORB descriptor extraction in 1.59981 ms
+Harris detection with n=281 keypoints in 7.32602 ms
+ORB descriptor extraction in 1.69184 ms
+---------- START HARRIS, FREAK
+Harris detection with n=115 keypoints in 2.48032 ms
+FREAK descriptor extraction in 18.1645 ms
+HARRISis error with FREAK
+Harris detection with n=98 keypoints in 2.57371 ms
+FREAK descriptor extraction in 16.9613 ms
+Harris detection with n=113 keypoints in 2.72112 ms
+FREAK descriptor extraction in 17.2778 ms
+Harris detection with n=121 keypoints in 2.76891 ms
+FREAK descriptor extraction in 17.1047 ms
+Harris detection with n=160 keypoints in 3.13656 ms
+FREAK descriptor extraction in 17.081 ms
+Harris detection with n=383 keypoints in 14.7573 ms
+FREAK descriptor extraction in 15.6772 ms
+Harris detection with n=85 keypoints in 2.45922 ms
+FREAK descriptor extraction in 17.4871 ms
+Harris detection with n=210 keypoints in 4.47463 ms
+FREAK descriptor extraction in 16.8096 ms
+Harris detection with n=171 keypoints in 3.28455 ms
+FREAK descriptor extraction in 16.3623 ms
+Harris detection with n=281 keypoints in 6.51651 ms
+FREAK descriptor extraction in 14.9064 ms
+---------- START HARRIS, AKAZE
+Harris detection with n=115 keypoints in 2.71222 ms
+HARRIS is error with AKAZE
+Harris detection with n=98 keypoints in 2.65071 ms
+HARRIS is error with AKAZE
+Harris detection with n=113 keypoints in 2.79743 ms
+HARRIS is error with AKAZE
+Harris detection with n=121 keypoints in 2.89475 ms
+HARRIS is error with AKAZE
+Harris detection with n=160 keypoints in 3.40036 ms
+HARRIS is error with AKAZE
+Harris detection with n=383 keypoints in 15.4765 ms
+HARRIS is error with AKAZE
+Harris detection with n=85 keypoints in 2.46868 ms
+HARRIS is error with AKAZE
+Harris detection with n=210 keypoints in 5.28265 ms
+HARRIS is error with AKAZE
+Harris detection with n=171 keypoints in 3.7329 ms
+HARRIS is error with AKAZE
+Harris detection with n=281 keypoints in 8.42498 ms
+HARRIS is error with AKAZE
+---------- START HARRIS, SIFT
+Harris detection with n=115 keypoints in 2.93645 ms
+SIFT descriptor extraction in 13.718 ms
+Harris detection with n=98 keypoints in 2.64502 ms
+SIFT descriptor extraction in 11.0242 ms
+HARRISis error with SIFT
+Harris detection with n=113 keypoints in 2.80479 ms
+SIFT descriptor extraction in 11.6337 ms
+HARRISis error with SIFT
+Harris detection with n=121 keypoints in 2.76466 ms
+SIFT descriptor extraction in 10.4808 ms
+HARRISis error with SIFT
+Harris detection with n=160 keypoints in 3.40911 ms
+SIFT descriptor extraction in 10.7992 ms
+HARRISis error with SIFT
+Harris detection with n=383 keypoints in 15.2905 ms
+SIFT descriptor extraction in 11.5046 ms
+HARRISis error with SIFT
+Harris detection with n=85 keypoints in 2.46518 ms
+SIFT descriptor extraction in 11.5608 ms
+HARRISis error with SIFT
+Harris detection with n=210 keypoints in 4.46639 ms
+SIFT descriptor extraction in 8.75152 ms
+HARRISis error with SIFT
+Harris detection with n=171 keypoints in 3.48503 ms
+SIFT descriptor extraction in 8.72079 ms
+HARRISis error with SIFT
+Harris detection with n=281 keypoints in 7.60308 ms
+SIFT descriptor extraction in 11.1694 ms
+HARRISis error with SIFT
+---------- START FAST, BRISK
+FAST detection with n=1824 keypoints in 0.598538 ms
+BRISK descriptor extraction in 1.27926 ms
+FASTis error with BRISK
+FAST detection with n=1832 keypoints in 0.474012 ms
+BRISK descriptor extraction in 1.42099 ms
+FAST detection with n=1810 keypoints in 0.512775 ms
+BRISK descriptor extraction in 1.44434 ms
+FAST detection with n=1817 keypoints in 0.481584 ms
+BRISK descriptor extraction in 1.50727 ms
+FAST detection with n=1793 keypoints in 0.511711 ms
+BRISK descriptor extraction in 1.28175 ms
+FAST detection with n=1796 keypoints in 0.517118 ms
+BRISK descriptor extraction in 1.42437 ms
+FAST detection with n=1788 keypoints in 0.491812 ms
+BRISK descriptor extraction in 1.53331 ms
+FAST detection with n=1695 keypoints in 0.503581 ms
+BRISK descriptor extraction in 1.67871 ms
+FAST detection with n=1749 keypoints in 0.481426 ms
+BRISK descriptor extraction in 1.24334 ms
+FAST detection with n=1770 keypoints in 0.496396 ms
+BRISK descriptor extraction in 1.26814 ms
+---------- START FAST, BRIEF
+FAST detection with n=1824 keypoints in 0.503828 ms
+BRIEF descriptor extraction in 0.471113 ms
+FASTis error with BRIEF
+FAST detection with n=1832 keypoints in 0.513853 ms
+BRIEF descriptor extraction in 0.654778 ms
+FAST detection with n=1810 keypoints in 0.571308 ms
+BRIEF descriptor extraction in 0.584402 ms
+FAST detection with n=1817 keypoints in 0.570659 ms
+BRIEF descriptor extraction in 0.758649 ms
+FAST detection with n=1793 keypoints in 0.591263 ms
+BRIEF descriptor extraction in 0.636644 ms
+FAST detection with n=1796 keypoints in 0.565472 ms
+BRIEF descriptor extraction in 0.600157 ms
+FAST detection with n=1788 keypoints in 0.57908 ms
+BRIEF descriptor extraction in 0.772861 ms
+FAST detection with n=1695 keypoints in 0.577445 ms
+BRIEF descriptor extraction in 0.608783 ms
+FAST detection with n=1749 keypoints in 0.588783 ms
+BRIEF descriptor extraction in 0.593401 ms
+FAST detection with n=1770 keypoints in 0.585158 ms
+BRIEF descriptor extraction in 0.54771 ms
+---------- START FAST, ORB
+FAST detection with n=1824 keypoints in 0.602451 ms
+ORB descriptor extraction in 1.73442 ms
+FAST detection with n=1832 keypoints in 0.593337 ms
+ORB descriptor extraction in 1.78856 ms
+FAST detection with n=1810 keypoints in 0.584475 ms
+ORB descriptor extraction in 1.74695 ms
+FAST detection with n=1817 keypoints in 0.568552 ms
+ORB descriptor extraction in 1.70121 ms
+FAST detection with n=1793 keypoints in 0.564761 ms
+ORB descriptor extraction in 1.72152 ms
+FAST detection with n=1796 keypoints in 0.580942 ms
+ORB descriptor extraction in 1.69812 ms
+FAST detection with n=1788 keypoints in 0.565428 ms
+ORB descriptor extraction in 1.71945 ms
+FAST detection with n=1695 keypoints in 0.559839 ms
+ORB descriptor extraction in 1.727 ms
+FAST detection with n=1749 keypoints in 0.57063 ms
+ORB descriptor extraction in 1.69129 ms
+FAST detection with n=1770 keypoints in 0.569426 ms
+ORB descriptor extraction in 1.7202 ms
+---------- START FAST, FREAK
+FAST detection with n=1824 keypoints in 0.573281 ms
+FREAK descriptor extraction in 16.0759 ms
+FASTis error with FREAK
+FAST detection with n=1832 keypoints in 0.497156 ms
+FREAK descriptor extraction in 14.9514 ms
+FAST detection with n=1810 keypoints in 0.494475 ms
+FREAK descriptor extraction in 14.8831 ms
+FAST detection with n=1817 keypoints in 0.476352 ms
+FREAK descriptor extraction in 15.382 ms
+FAST detection with n=1793 keypoints in 0.529019 ms
+FREAK descriptor extraction in 14.9383 ms
+FAST detection with n=1796 keypoints in 0.508465 ms
+FREAK descriptor extraction in 15.0365 ms
+FAST detection with n=1788 keypoints in 0.551678 ms
+FREAK descriptor extraction in 16.5133 ms
+FAST detection with n=1695 keypoints in 0.541791 ms
+FREAK descriptor extraction in 16.6505 ms
+FAST detection with n=1749 keypoints in 0.479533 ms
+FREAK descriptor extraction in 15.2325 ms
+FAST detection with n=1770 keypoints in 0.541406 ms
+FREAK descriptor extraction in 16.3161 ms
+---------- START FAST, AKAZE
+FAST detection with n=1824 keypoints in 0.585689 ms
+FAST is error with AKAZE
+FAST detection with n=1832 keypoints in 0.632428 ms
+FAST is error with AKAZE
+FAST detection with n=1810 keypoints in 0.706241 ms
+FAST is error with AKAZE
+FAST detection with n=1817 keypoints in 0.656711 ms
+FAST is error with AKAZE
+FAST detection with n=1793 keypoints in 0.674281 ms
+FAST is error with AKAZE
+FAST detection with n=1796 keypoints in 0.632213 ms
+FAST is error with AKAZE
+FAST detection with n=1788 keypoints in 0.673504 ms
+FAST is error with AKAZE
+FAST detection with n=1695 keypoints in 0.695637 ms
+FAST is error with AKAZE
+FAST detection with n=1749 keypoints in 0.663532 ms
+FAST is error with AKAZE
+FAST detection with n=1770 keypoints in 0.705822 ms
+FAST is error with AKAZE
+---------- START FAST, SIFT
+FAST detection with n=1824 keypoints in 0.715327 ms
+SIFT descriptor extraction in 14.5001 ms
+FAST detection with n=1832 keypoints in 0.58821 ms
+SIFT descriptor extraction in 13.7398 ms
+FASTis error with SIFT
+FAST detection with n=1810 keypoints in 0.592049 ms
+SIFT descriptor extraction in 13.9565 ms
+FASTis error with SIFT
+FAST detection with n=1817 keypoints in 0.584938 ms
+SIFT descriptor extraction in 13.547 ms
+FASTis error with SIFT
+FAST detection with n=1793 keypoints in 0.582109 ms
+SIFT descriptor extraction in 14.3981 ms
+FASTis error with SIFT
+FAST detection with n=1796 keypoints in 0.579186 ms
+SIFT descriptor extraction in 13.3029 ms
+FASTis error with SIFT
+FAST detection with n=1788 keypoints in 0.624546 ms
+SIFT descriptor extraction in 13.0054 ms
+FASTis error with SIFT
+FAST detection with n=1695 keypoints in 0.584985 ms
+SIFT descriptor extraction in 10.4943 ms
+FASTis error with SIFT
+FAST detection with n=1749 keypoints in 0.599027 ms
+SIFT descriptor extraction in 12.5751 ms
+FASTis error with SIFT
+FAST detection with n=1770 keypoints in 0.597426 ms
+SIFT descriptor extraction in 12.6787 ms
+FASTis error with SIFT
+---------- START BRISK, BRISK
+BRISK detection with n=2757 keypoints in 122.705 ms
+BRISK descriptor extraction in 2.15279 ms
+BRISKis error with BRISK
+BRISK detection with n=2777 keypoints in 119.29 ms
+BRISK descriptor extraction in 2.28751 ms
+BRISK detection with n=2741 keypoints in 118.078 ms
+BRISK descriptor extraction in 2.26386 ms
+BRISK detection with n=2735 keypoints in 119.693 ms
+BRISK descriptor extraction in 2.54145 ms
+BRISK detection with n=2757 keypoints in 128.176 ms
+BRISK descriptor extraction in 2.32245 ms
+BRISK detection with n=2695 keypoints in 118.607 ms
+BRISK descriptor extraction in 2.22788 ms
+BRISK detection with n=2715 keypoints in 118.773 ms
+BRISK descriptor extraction in 2.23988 ms
+BRISK detection with n=2628 keypoints in 116.998 ms
+BRISK descriptor extraction in 2.0907 ms
+BRISK detection with n=2639 keypoints in 120.688 ms
+BRISK descriptor extraction in 2.26347 ms
+BRISK detection with n=2672 keypoints in 120.736 ms
+BRISK descriptor extraction in 2.06382 ms
+---------- START BRISK, BRIEF
+BRISK detection with n=2757 keypoints in 121.971 ms
+BRIEF descriptor extraction in 0.550933 ms
+BRISKis error with BRIEF
+BRISK detection with n=2777 keypoints in 118.293 ms
+BRIEF descriptor extraction in 0.567926 ms
+BRISK detection with n=2741 keypoints in 119.384 ms
+BRIEF descriptor extraction in 0.560792 ms
+BRISK detection with n=2735 keypoints in 116.416 ms
+BRIEF descriptor extraction in 0.552474 ms
+BRISK detection with n=2757 keypoints in 117.526 ms
+BRIEF descriptor extraction in 0.580584 ms
+BRISK detection with n=2695 keypoints in 117.534 ms
+BRIEF descriptor extraction in 0.56721 ms
+BRISK detection with n=2715 keypoints in 120.37 ms
+BRIEF descriptor extraction in 0.574815 ms
+BRISK detection with n=2628 keypoints in 116.304 ms
+BRIEF descriptor extraction in 0.55972 ms
+BRISK detection with n=2639 keypoints in 117.674 ms
+BRIEF descriptor extraction in 0.565675 ms
+BRISK detection with n=2672 keypoints in 118.225 ms
+BRIEF descriptor extraction in 0.528989 ms
+---------- START BRISK, ORB
+BRISK detection with n=2757 keypoints in 117.366 ms
+ORB descriptor extraction in 6.74708 ms
+BRISK detection with n=2777 keypoints in 116.494 ms
+ORB descriptor extraction in 5.87261 ms
+BRISK detection with n=2741 keypoints in 119.647 ms
+ORB descriptor extraction in 5.70022 ms
+BRISK detection with n=2735 keypoints in 119.259 ms
+ORB descriptor extraction in 5.3779 ms
+BRISK detection with n=2757 keypoints in 117.571 ms
+ORB descriptor extraction in 5.35579 ms
+BRISK detection with n=2695 keypoints in 116.91 ms
+ORB descriptor extraction in 5.40881 ms
+BRISK detection with n=2715 keypoints in 117.852 ms
+ORB descriptor extraction in 5.38614 ms
+BRISK detection with n=2628 keypoints in 115.936 ms
+ORB descriptor extraction in 5.47745 ms
+BRISK detection with n=2639 keypoints in 119.003 ms
+ORB descriptor extraction in 5.68442 ms
+BRISK detection with n=2672 keypoints in 118.178 ms
+ORB descriptor extraction in 5.47536 ms
+---------- START BRISK, FREAK
+BRISK detection with n=2757 keypoints in 118.665 ms
+FREAK descriptor extraction in 14.8015 ms
+BRISKis error with FREAK
+BRISK detection with n=2777 keypoints in 117.388 ms
+FREAK descriptor extraction in 14.8245 ms
+BRISK detection with n=2741 keypoints in 116.336 ms
+FREAK descriptor extraction in 14.2909 ms
+BRISK detection with n=2735 keypoints in 116.755 ms
+FREAK descriptor extraction in 14.8578 ms
+BRISK detection with n=2757 keypoints in 118.912 ms
+FREAK descriptor extraction in 14.602 ms
+BRISK detection with n=2695 keypoints in 115.98 ms
+FREAK descriptor extraction in 14.9745 ms
+BRISK detection with n=2715 keypoints in 119.475 ms
+FREAK descriptor extraction in 14.7486 ms
+BRISK detection with n=2628 keypoints in 117.619 ms
+FREAK descriptor extraction in 15.061 ms
+BRISK detection with n=2639 keypoints in 117.17 ms
+FREAK descriptor extraction in 14.8079 ms
+BRISK detection with n=2672 keypoints in 118.282 ms
+FREAK descriptor extraction in 14.4537 ms
+---------- START BRISK, AKAZE
+BRISK detection with n=2757 keypoints in 115.923 ms
+BRISK is error with AKAZE
+BRISK detection with n=2777 keypoints in 124.953 ms
+BRISK is error with AKAZE
+BRISK detection with n=2741 keypoints in 126.944 ms
+BRISK is error with AKAZE
+BRISK detection with n=2735 keypoints in 128.85 ms
+BRISK is error with AKAZE
+BRISK detection with n=2757 keypoints in 132.647 ms
+BRISK is error with AKAZE
+BRISK detection with n=2695 keypoints in 131.437 ms
+BRISK is error with AKAZE
+BRISK detection with n=2715 keypoints in 130.754 ms
+BRISK is error with AKAZE
+BRISK detection with n=2628 keypoints in 129.377 ms
+BRISK is error with AKAZE
+BRISK detection with n=2639 keypoints in 127.861 ms
+BRISK is error with AKAZE
+BRISK detection with n=2672 keypoints in 127.125 ms
+BRISK is error with AKAZE
+---------- START BRISK, SIFT
+BRISK detection with n=2757 keypoints in 129.481 ms
+SIFT descriptor extraction in 15.9461 ms
+BRISK detection with n=2777 keypoints in 126.191 ms
+SIFT descriptor extraction in 13.9063 ms
+BRISKis error with SIFT
+BRISK detection with n=2741 keypoints in 126.795 ms
+SIFT descriptor extraction in 13.9253 ms
+BRISKis error with SIFT
+BRISK detection with n=2735 keypoints in 125.936 ms
+SIFT descriptor extraction in 17.164 ms
+BRISKis error with SIFT
+BRISK detection with n=2757 keypoints in 127.968 ms
+SIFT descriptor extraction in 14.5579 ms
+BRISKis error with SIFT
+BRISK detection with n=2695 keypoints in 125.121 ms
+SIFT descriptor extraction in 14.001 ms
+BRISKis error with SIFT
+BRISK detection with n=2715 keypoints in 125.101 ms
+SIFT descriptor extraction in 14.7891 ms
+BRISKis error with SIFT
+BRISK detection with n=2628 keypoints in 124.573 ms
+SIFT descriptor extraction in 14.0127 ms
+BRISKis error with SIFT
+BRISK detection with n=2639 keypoints in 142.247 ms
+SIFT descriptor extraction in 17.1202 ms
+BRISKis error with SIFT
+BRISK detection with n=2672 keypoints in 131.824 ms
+SIFT descriptor extraction in 19.1366 ms
+BRISKis error with SIFT
+---------- START ORB, BRISK
+ORB detection with n=500 keypoints in 12.4628 ms
+BRISK descriptor extraction in 1.37986 ms
+ORBis error with BRISK
+ORB detection with n=500 keypoints in 6.30924 ms
+BRISK descriptor extraction in 1.0224 ms
+ORB detection with n=500 keypoints in 6.60763 ms
+BRISK descriptor extraction in 1.18063 ms
+ORB detection with n=500 keypoints in 4.98239 ms
+BRISK descriptor extraction in 1.12594 ms
+ORB detection with n=500 keypoints in 4.55747 ms
+BRISK descriptor extraction in 1.49415 ms
+ORB detection with n=500 keypoints in 4.62154 ms
+BRISK descriptor extraction in 1.10529 ms
+ORB detection with n=500 keypoints in 4.73268 ms
+BRISK descriptor extraction in 1.18524 ms
+ORB detection with n=500 keypoints in 4.67687 ms
+BRISK descriptor extraction in 1.46267 ms
+ORB detection with n=500 keypoints in 4.59662 ms
+BRISK descriptor extraction in 1.20961 ms
+ORB detection with n=500 keypoints in 6.23986 ms
+BRISK descriptor extraction in 1.19275 ms
+---------- START ORB, BRIEF
+ORB detection with n=500 keypoints in 5.04267 ms
+BRIEF descriptor extraction in 0.514916 ms
+ORBis error with BRIEF
+ORB detection with n=500 keypoints in 5.10916 ms
+BRIEF descriptor extraction in 0.452098 ms
+ORB detection with n=500 keypoints in 5.0123 ms
+BRIEF descriptor extraction in 0.612878 ms
+ORB detection with n=500 keypoints in 5.13187 ms
+BRIEF descriptor extraction in 0.543023 ms
+ORB detection with n=500 keypoints in 6.56191 ms
+BRIEF descriptor extraction in 0.539398 ms
+ORB detection with n=500 keypoints in 5.27462 ms
+BRIEF descriptor extraction in 2.03796 ms
+ORB detection with n=500 keypoints in 5.03374 ms
+BRIEF descriptor extraction in 0.521831 ms
+ORB detection with n=500 keypoints in 6.80732 ms
+BRIEF descriptor extraction in 0.557142 ms
+ORB detection with n=500 keypoints in 6.32978 ms
+BRIEF descriptor extraction in 0.571736 ms
+ORB detection with n=500 keypoints in 5.20286 ms
+BRIEF descriptor extraction in 2.0011 ms
+---------- START ORB, ORB
+ORB detection with n=500 keypoints in 5.09941 ms
+ORB descriptor extraction in 7.71266 ms
+ORB detection with n=500 keypoints in 5.163 ms
+ORB descriptor extraction in 7.90427 ms
+ORB detection with n=500 keypoints in 6.52409 ms
+ORB descriptor extraction in 6.42412 ms
+ORB detection with n=500 keypoints in 4.98189 ms
+ORB descriptor extraction in 6.46535 ms
+ORB detection with n=500 keypoints in 6.1166 ms
+ORB descriptor extraction in 7.9971 ms
+ORB detection with n=500 keypoints in 5.12662 ms
+ORB descriptor extraction in 7.47381 ms
+ORB detection with n=500 keypoints in 5.01955 ms
+ORB descriptor extraction in 5.9226 ms
+ORB detection with n=500 keypoints in 4.74134 ms
+ORB descriptor extraction in 5.56468 ms
+ORB detection with n=500 keypoints in 6.33942 ms
+ORB descriptor extraction in 6.3386 ms
+ORB detection with n=500 keypoints in 6.13072 ms
+ORB descriptor extraction in 7.92139 ms
+---------- START ORB, FREAK
+ORB detection with n=500 keypoints in 6.75074 ms
+FREAK descriptor extraction in 17.4792 ms
+ORBis error with FREAK
+ORB detection with n=500 keypoints in 5.1111 ms
+FREAK descriptor extraction in 16.7112 ms
+ORB detection with n=500 keypoints in 4.97791 ms
+FREAK descriptor extraction in 17.5296 ms
+ORB detection with n=500 keypoints in 5.17695 ms
+FREAK descriptor extraction in 17.6117 ms
+ORB detection with n=500 keypoints in 6.7815 ms
+FREAK descriptor extraction in 17.4217 ms
+ORB detection with n=500 keypoints in 6.37883 ms
+FREAK descriptor extraction in 17.9196 ms
+ORB detection with n=500 keypoints in 5.21234 ms
+FREAK descriptor extraction in 17.552 ms
+ORB detection with n=500 keypoints in 5.39315 ms
+FREAK descriptor extraction in 17.9274 ms
+ORB detection with n=500 keypoints in 5.44291 ms
+FREAK descriptor extraction in 17.8412 ms
+ORB detection with n=500 keypoints in 5.22817 ms
+FREAK descriptor extraction in 18.6755 ms
+---------- START ORB, AKAZE
+ORB detection with n=500 keypoints in 5.99623 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 5.16906 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 5.70234 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 6.69994 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 7.93988 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 5.80494 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 5.99663 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 6.67733 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 6.17304 ms
+ORB is error with AKAZE
+ORB detection with n=500 keypoints in 7.42501 ms
+ORB is error with AKAZE
+---------- START ORB, SIFT
+ORB detection with n=500 keypoints in 5.41394 ms
+SIFT descriptor extraction in 23.1029 ms
+ORB detection with n=500 keypoints in 10.2381 ms
+SIFT descriptor extraction in 20.9709 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 5.10104 ms
+SIFT descriptor extraction in 21.5642 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 5.26207 ms
+SIFT descriptor extraction in 20.5324 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 6.64967 ms
+SIFT descriptor extraction in 21.2322 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 6.55739 ms
+SIFT descriptor extraction in 23.5125 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 5.58321 ms
+SIFT descriptor extraction in 22.0443 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 6.69565 ms
+SIFT descriptor extraction in 21.1681 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 6.55708 ms
+SIFT descriptor extraction in 24.7915 ms
+ORBis error with SIFT
+ORB detection with n=500 keypoints in 5.91472 ms
+SIFT descriptor extraction in 25.1124 ms
+ORBis error with SIFT
+---------- START AKAZE, BRISK
+AKAZE detection with n=1351 keypoints in 48.3856 ms
+BRISK descriptor extraction in 2.98885 ms
+AKAZEis error with BRISK
+AKAZE detection with n=1327 keypoints in 43.2983 ms
+BRISK descriptor extraction in 1.38427 ms
+AKAZE detection with n=1311 keypoints in 44.3174 ms
+BRISK descriptor extraction in 2.98985 ms
+AKAZE detection with n=1351 keypoints in 44.5761 ms
+BRISK descriptor extraction in 2.34857 ms
+AKAZE detection with n=1360 keypoints in 44.8884 ms
+BRISK descriptor extraction in 2.43653 ms
+AKAZE detection with n=1347 keypoints in 50.0462 ms
+BRISK descriptor extraction in 2.12932 ms
+AKAZE detection with n=1363 keypoints in 48.3573 ms
+BRISK descriptor extraction in 1.48923 ms
+AKAZE detection with n=1331 keypoints in 48.5234 ms
+BRISK descriptor extraction in 1.72457 ms
+AKAZE detection with n=1358 keypoints in 48.1289 ms
+BRISK descriptor extraction in 2.16421 ms
+AKAZE detection with n=1331 keypoints in 48.9091 ms
+BRISK descriptor extraction in 2.9391 ms
+---------- START AKAZE, BRIEF
+AKAZE detection with n=1351 keypoints in 45.7786 ms
+BRIEF descriptor extraction in 0.754381 ms
+AKAZEis error with BRIEF
+AKAZE detection with n=1327 keypoints in 46.3944 ms
+BRIEF descriptor extraction in 1.61913 ms
+AKAZE detection with n=1311 keypoints in 47.2608 ms
+BRIEF descriptor extraction in 0.725833 ms
+AKAZE detection with n=1351 keypoints in 51.3793 ms
+BRIEF descriptor extraction in 0.82658 ms
+AKAZE detection with n=1360 keypoints in 50.4928 ms
+BRIEF descriptor extraction in 0.851222 ms
+AKAZE detection with n=1347 keypoints in 50.1806 ms
+BRIEF descriptor extraction in 2.07806 ms
+AKAZE detection with n=1363 keypoints in 50.8816 ms
+BRIEF descriptor extraction in 0.783683 ms
+AKAZE detection with n=1331 keypoints in 47.4728 ms
+BRIEF descriptor extraction in 0.856361 ms
+AKAZE detection with n=1358 keypoints in 47.9636 ms
+BRIEF descriptor extraction in 0.682258 ms
+AKAZE detection with n=1331 keypoints in 48.1082 ms
+BRIEF descriptor extraction in 1.37082 ms
+---------- START AKAZE, ORB
+AKAZE detection with n=1351 keypoints in 49.6036 ms
+ORB descriptor extraction in 5.1112 ms
+AKAZE detection with n=1327 keypoints in 49.2129 ms
+ORB descriptor extraction in 6.39885 ms
+AKAZE detection with n=1311 keypoints in 54.2941 ms
+ORB descriptor extraction in 6.96861 ms
+AKAZE detection with n=1351 keypoints in 46.3895 ms
+ORB descriptor extraction in 6.74079 ms
+AKAZE detection with n=1360 keypoints in 45.3295 ms
+ORB descriptor extraction in 6.45401 ms
+AKAZE detection with n=1347 keypoints in 45.8339 ms
+ORB descriptor extraction in 5.95796 ms
+AKAZE detection with n=1363 keypoints in 45.7434 ms
+ORB descriptor extraction in 6.4448 ms
+AKAZE detection with n=1331 keypoints in 47.3775 ms
+ORB descriptor extraction in 6.27786 ms
+AKAZE detection with n=1358 keypoints in 48.0559 ms
+ORB descriptor extraction in 6.03095 ms
+AKAZE detection with n=1331 keypoints in 48.212 ms
+ORB descriptor extraction in 5.02483 ms
+---------- START AKAZE, FREAK
+AKAZE detection with n=1351 keypoints in 45.0395 ms
+FREAK descriptor extraction in 19.3358 ms
+AKAZEis error with FREAK
+AKAZE detection with n=1327 keypoints in 47.5364 ms
+FREAK descriptor extraction in 20.8352 ms
+AKAZE detection with n=1311 keypoints in 45.2179 ms
+FREAK descriptor extraction in 19.2975 ms
+AKAZE detection with n=1351 keypoints in 48.6358 ms
+FREAK descriptor extraction in 20.4817 ms
+AKAZE detection with n=1360 keypoints in 47.3087 ms
+FREAK descriptor extraction in 21.6549 ms
+AKAZE detection with n=1347 keypoints in 47.9582 ms
+FREAK descriptor extraction in 20.1338 ms
+AKAZE detection with n=1363 keypoints in 45.733 ms
+FREAK descriptor extraction in 19.92 ms
+AKAZE detection with n=1331 keypoints in 44.9199 ms
+FREAK descriptor extraction in 20.5942 ms
+AKAZE detection with n=1358 keypoints in 56.296 ms
+FREAK descriptor extraction in 23.0307 ms
+AKAZE detection with n=1331 keypoints in 46.2089 ms
+FREAK descriptor extraction in 20.3638 ms
+---------- START AKAZE, AKAZE
+AKAZE detection with n=1351 keypoints in 45.6797 ms
+AKAZE descriptor extraction in 47.8636 ms
+AKAZEis error with AKAZE
+AKAZE detection with n=1327 keypoints in 54.1711 ms
+AKAZE descriptor extraction in 50.3552 ms
+AKAZE detection with n=1311 keypoints in 53.43 ms
+AKAZE descriptor extraction in 46.6454 ms
+AKAZE detection with n=1351 keypoints in 50.1796 ms
+AKAZE descriptor extraction in 42.6904 ms
+AKAZE detection with n=1360 keypoints in 47.7006 ms
+AKAZE descriptor extraction in 47.4299 ms
+AKAZE detection with n=1347 keypoints in 51.528 ms
+AKAZE descriptor extraction in 44.366 ms
+AKAZE detection with n=1363 keypoints in 52.6337 ms
+AKAZE descriptor extraction in 45.521 ms
+AKAZE detection with n=1331 keypoints in 50.5708 ms
+AKAZE descriptor extraction in 47.5568 ms
+AKAZE detection with n=1358 keypoints in 50.838 ms
+AKAZE descriptor extraction in 42.7602 ms
+AKAZE detection with n=1331 keypoints in 47.9413 ms
+AKAZE descriptor extraction in 45.9672 ms
+---------- START AKAZE, SIFT
+AKAZE detection with n=1351 keypoints in 56.4525 ms
+SIFT descriptor extraction in 19.3625 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1327 keypoints in 50.5071 ms
+SIFT descriptor extraction in 15.7642 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1311 keypoints in 47.52 ms
+SIFT descriptor extraction in 19.7934 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1351 keypoints in 46.6913 ms
+SIFT descriptor extraction in 15.7896 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1360 keypoints in 49.0753 ms
+SIFT descriptor extraction in 15.99 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1347 keypoints in 50.0375 ms
+SIFT descriptor extraction in 16.2479 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1363 keypoints in 52.1891 ms
+SIFT descriptor extraction in 19.4138 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1331 keypoints in 52.7806 ms
+SIFT descriptor extraction in 20.7574 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1358 keypoints in 51.1657 ms
+SIFT descriptor extraction in 19.6852 ms
+AKAZEis error with SIFT
+AKAZE detection with n=1331 keypoints in 49.8285 ms
+SIFT descriptor extraction in 18.5427 ms
+AKAZEis error with SIFT
+---------- START SIFT, BRISK
+SIFT detection with n=1438 keypoints in 65.2757 ms
+BRISK descriptor extraction in 1.64697 ms
+SIFTis error with BRISK
+SIFT detection with n=1371 keypoints in 71.8735 ms
+BRISK descriptor extraction in 1.61101 ms
+SIFT detection with n=1380 keypoints in 76.6936 ms
+BRISK descriptor extraction in 1.28844 ms
+SIFT detection with n=1335 keypoints in 81.3466 ms
+BRISK descriptor extraction in 1.55992 ms
+SIFT detection with n=1305 keypoints in 65.9379 ms
+BRISK descriptor extraction in 1.30806 ms
+SIFT detection with n=1369 keypoints in 74.4585 ms
+BRISK descriptor extraction in 1.71601 ms
+SIFT detection with n=1396 keypoints in 66.3919 ms
+BRISK descriptor extraction in 2.82594 ms
+SIFT detection with n=1382 keypoints in 65.8824 ms
+BRISK descriptor extraction in 1.26139 ms
+SIFT detection with n=1463 keypoints in 65.2401 ms
+BRISK descriptor extraction in 1.4757 ms
+SIFT detection with n=1422 keypoints in 65.3701 ms
+BRISK descriptor extraction in 2.95532 ms
+---------- START SIFT, BRIEF
+SIFT detection with n=1438 keypoints in 67.3783 ms
+BRIEF descriptor extraction in 0.818682 ms
+SIFTis error with BRIEF
+SIFT detection with n=1371 keypoints in 76.4121 ms
+BRIEF descriptor extraction in 0.667435 ms
+SIFT detection with n=1380 keypoints in 67.626 ms
+BRIEF descriptor extraction in 0.618296 ms
+SIFT detection with n=1335 keypoints in 77.6616 ms
+BRIEF descriptor extraction in 0.780948 ms
+SIFT detection with n=1305 keypoints in 76.3377 ms
+BRIEF descriptor extraction in 1.06168 ms
+SIFT detection with n=1369 keypoints in 74.3661 ms
+BRIEF descriptor extraction in 0.74883 ms
+SIFT detection with n=1396 keypoints in 71.8982 ms
+BRIEF descriptor extraction in 0.736263 ms
+SIFT detection with n=1382 keypoints in 74.2667 ms
+BRIEF descriptor extraction in 0.949007 ms
+SIFT detection with n=1463 keypoints in 67.1877 ms
+BRIEF descriptor extraction in 0.826878 ms
+SIFT detection with n=1422 keypoints in 66.4684 ms
+BRIEF descriptor extraction in 0.955313 ms
+---------- START SIFT, ORB
+SIFT detection with n=1438 keypoints in 73.2992 ms
+SIFT is error with ORB
+SIFT detection with n=1371 keypoints in 65.3648 ms
+SIFT is error with ORB
+SIFT detection with n=1380 keypoints in 71.0914 ms
+SIFT is error with ORB
+SIFT detection with n=1335 keypoints in 67.4307 ms
+SIFT is error with ORB
+SIFT detection with n=1305 keypoints in 69.494 ms
+SIFT is error with ORB
+SIFT detection with n=1369 keypoints in 72.4883 ms
+SIFT is error with ORB
+SIFT detection with n=1396 keypoints in 63.4088 ms
+SIFT is error with ORB
+SIFT detection with n=1382 keypoints in 67.1363 ms
+SIFT is error with ORB
+SIFT detection with n=1463 keypoints in 67.7688 ms
+SIFT is error with ORB
+SIFT detection with n=1422 keypoints in 84.6662 ms
+SIFT is error with ORB
+---------- START SIFT, FREAK
+SIFT detection with n=1438 keypoints in 77.4758 ms
+FREAK descriptor extraction in 22.403 ms
+SIFT detection with n=1371 keypoints in 68.2766 ms
+FREAK descriptor extraction in 22.8834 ms
+SIFT detection with n=1380 keypoints in 66.2297 ms
+FREAK descriptor extraction in 20.6434 ms
+SIFT detection with n=1335 keypoints in 67.4942 ms
+FREAK descriptor extraction in 21.5162 ms
+SIFT detection with n=1305 keypoints in 78.7119 ms
+FREAK descriptor extraction in 22.3638 ms
+SIFT detection with n=1369 keypoints in 66.3231 ms
+FREAK descriptor extraction in 21.35 ms
+SIFT detection with n=1396 keypoints in 66.3457 ms
+FREAK descriptor extraction in 21.3988 ms
+SIFT detection with n=1382 keypoints in 68.1508 ms
+FREAK descriptor extraction in 23.1398 ms
+SIFT detection with n=1463 keypoints in 76.9867 ms
+FREAK descriptor extraction in 22.1986 ms
+SIFT detection with n=1422 keypoints in 77.9222 ms
+FREAK descriptor extraction in 21.3002 ms
+---------- START SIFT, AKAZE
+SIFT detection with n=1438 keypoints in 69.5339 ms
+SIFT is error with AKAZE
+SIFT detection with n=1371 keypoints in 73.5713 ms
+SIFT is error with AKAZE
+SIFT detection with n=1380 keypoints in 82.2669 ms
+SIFT is error with AKAZE
+SIFT detection with n=1335 keypoints in 89.0271 ms
+SIFT is error with AKAZE
+SIFT detection with n=1305 keypoints in 69.595 ms
+SIFT is error with AKAZE
+SIFT detection with n=1369 keypoints in 90.6832 ms
+SIFT is error with AKAZE
+SIFT detection with n=1396 keypoints in 71.091 ms
+SIFT is error with AKAZE
+SIFT detection with n=1382 keypoints in 69.4568 ms
+SIFT is error with AKAZE
+SIFT detection with n=1463 keypoints in 93.9558 ms
+SIFT is error with AKAZE
+SIFT detection with n=1422 keypoints in 66.8346 ms
+SIFT is error with AKAZE
+---------- START SIFT, SIFT
+SIFT detection with n=1438 keypoints in 74.7146 ms
+SIFT descriptor extraction in 59.905 ms
+SIFT detection with n=1371 keypoints in 61.8015 ms
+SIFT descriptor extraction in 61.8889 ms
+SIFTis error with SIFT
+SIFT detection with n=1380 keypoints in 69.9563 ms
+SIFT descriptor extraction in 52.751 ms
+SIFTis error with SIFT
+SIFT detection with n=1335 keypoints in 77.9449 ms
+SIFT descriptor extraction in 68.2408 ms
+SIFTis error with SIFT
+SIFT detection with n=1305 keypoints in 64.5215 ms
+SIFT descriptor extraction in 58.2936 ms
+SIFTis error with SIFT
+SIFT detection with n=1369 keypoints in 75.5166 ms
+SIFT descriptor extraction in 59.8467 ms
+SIFTis error with SIFT
+SIFT detection with n=1396 keypoints in 64.013 ms
+SIFT descriptor extraction in 54.229 ms
+SIFTis error with SIFT
+SIFT detection with n=1382 keypoints in 61.2344 ms
+SIFT descriptor extraction in 64.8781 ms
+SIFTis error with SIFT
+SIFT detection with n=1463 keypoints in 79.703 ms
+SIFT descriptor extraction in 54.3958 ms
+SIFTis error with SIFT
+SIFT detection with n=1422 keypoints in 69.6843 ms
+SIFT descriptor extraction in 63.2344 ms
+SIFTis error with SIFT
+-----
+Match count:
+  BRISK-BRIEF: 1704
+  BRISK-BRISK: 1570
+  BRISK-FREAK: 1526
+  BRISK-ORB: 1510
+  AKAZE-BRIEF: 1266
+  AKAZE-AKAZE: 1259
+  AKAZE-BRISK: 1215
+  AKAZE-FREAK: 1188
+  AKAZE-ORB: 1186
+  FAST-BRIEF: 1099
+  FAST-ORB: 1081
+  SHITOMASI-BRIEF: 944
+  SHITOMASI-ORB: 907
+  FAST-BRISK: 899
+  FAST-FREAK: 881
+  SHITOMASI-BRISK: 767
+  SHITOMASI-FREAK: 766
+  ORB-ORB: 761
+  ORB-BRISK: 751
+  SIFT-BRIEF: 702
+  SIFT-FREAK: 596
+  SIFT-BRISK: 592
+  ORB-BRIEF: 545
+  ORB-FREAK: 421
+  HARRIS-BRIEF: 173
+  HARRIS-ORB: 160
+  HARRIS-FREAK: 146
+  HARRIS-BRISK: 142
+  SIFT-SIFT: 0
+  ORB-SIFT: 0
+  FAST-SIFT: 0
+  SHITOMASI-SIFT: 0
+  BRISK-SIFT: 0
+  HARRIS-SIFT: 0
+Average processing time:
+  FAST-BRIEF: 0.00155867
+  FAST-ORB: 0.0026358
+  ORB-BRIEF: 0.00673004
+  SHITOMASI-BRIEF: 0.00808094
+  SHITOMASI-ORB: 0.00904844
+  HARRIS-BRIEF: 0.0116728
+  ORB-ORB: 0.0127611
+  HARRIS-ORB: 0.0131477
+  FAST-SIFT: 0.0154173
+  FAST-FREAK: 0.0164499
+  SHITOMASI-SIFT: 0.0207983
+  SHITOMASI-FREAK: 0.0219713
+  ORB-FREAK: 0.0234423
+  HARRIS-SIFT: 0.0262416
+  HARRIS-FREAK: 0.0284254
+  ORB-SIFT: 0.0286491
+  AKAZE-BRIEF: 0.0504173
+  AKAZE-ORB: 0.0545691
+  AKAZE-FREAK: 0.0688749
+  SIFT-BRIEF: 0.0737017
+  SIFT-FREAK: 0.0936889
+  FAST-BRISK: 0.0941404
+  AKAZE-AKAZE: 0.0973922
+  ORB-BRISK: 0.100836
+  HARRIS-BRISK: 0.104332
+  SHITOMASI-BRISK: 0.104603
+  BRISK-BRIEF: 0.119125
+  BRISK-ORB: 0.124056
+  BRISK-FREAK: 0.132872
+  SIFT-SIFT: 0.134851
+  BRISK-SIFT: 0.145648
+  AKAZE-BRISK: 0.153272
+  SIFT-BRISK: 0.17982
+  BRISK-BRISK: 0.217778
